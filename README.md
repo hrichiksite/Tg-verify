@@ -6,3 +6,5 @@
 
 ![Image of Telegram Sending Verification Code](https://i.imgur.com/VwNLDTV.png)
 
+## If Verification is free then developers are more likely to put it, hence making the web more secure!! 
+
