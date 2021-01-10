@@ -8,3 +8,4 @@
 
 ## If Verification is free then developers are more likely to put it, hence making the web more secure!! 
 
+## Please Contribute, I don't know much about telegram bot API, so help is needed
