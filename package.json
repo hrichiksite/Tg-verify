@@ -1,0 +1,27 @@
+{
+  "name": "xyz.hrichik.tverify",
+  "version": "1.0.0",
+  "description": "NodeJS API to use for OTP verification in telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrichiksite/tverify.git"
+  },
+  "keywords": [
+    "telegram",
+    "verify",
+    "telegram-otp-system"
+  ],
+  "author": "Hrichik Mazumder",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hrichiksite/tverify/issues"
+  },
+  "homepage": "https://github.com/hrichiksite/tverify#readme",
+  "dependencies": {
+    "telegram-bot-api": "^2.0.1"
+  }
+}
